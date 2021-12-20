@@ -63,7 +63,7 @@ color: rgb(98, 98, 98);
     text-decoration: none;
 }
 .img {
-background-image: url("images/image.png");
+background-image: url("img/image.png");
 position: absolute;
 left: 115px;
 top: 192px;
@@ -112,7 +112,7 @@ height: 63px;
 z-index: 37;
 }
 .img2 {
-background-image: url("images/Filtro fotografico 5 copia 2.png");
+background-image: url("img/Filtro fotografico 5 copia 2.png");
 position: absolute;
 left: 630px;
 top: 163px;
@@ -164,7 +164,7 @@ z-index: 28;
 margin-left: 60px;
 }
 .img4 {
-background-image: url("images/image1.png");
+background-image: url("img/image.png");
 position: absolute;
 left: 143px;
 top: 756px;
@@ -252,7 +252,7 @@ text-decoration: none;
     margin-left: 62px;
 }
 .img5 {
-background-image: url("images/image2.png");
+background-image: url("img/image.png");
 position: absolute;
 left: 630px;
 top: 790px;
